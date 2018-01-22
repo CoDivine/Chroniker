@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/DarcyMeyer/Projects/Current/Chroniker/Chroniker/platforms/android/CordovaLib/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/DarcyMeyer/Projects/Current/Chroniker/Chroniker/platforms/android/CordovaLib/src/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\cygwin64\home\jocel\Chroniker\Chroniker\platforms\android\CordovaLib\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\cygwin64\home\jocel\Chroniker\Chroniker\platforms\android\CordovaLib\src\debug\shaders"/></dataSet></merger>

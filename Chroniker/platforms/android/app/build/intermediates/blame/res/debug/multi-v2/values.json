@@ -1,23 +1,23 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/DarcyMeyer/Projects/Current/Chroniker/Chroniker/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "C:\\cygwin64\\home\\jocel\\Chroniker\\Chroniker\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "/Users/DarcyMeyer/Projects/Current/Chroniker/Chroniker/platforms/android/app/src/main/res/values/strings.xml",
+                    "source": "C:\\cygwin64\\home\\jocel\\Chroniker\\Chroniker\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "4,2,3",
                         "startColumns": "4,4,4",
-                        "startOffsets": "161,55,102",
-                        "endColumns": "63,46,58",
-                        "endOffsets": "220,97,156"
+                        "startOffsets": "164,55,105",
+                        "endColumns": "63,49,58",
+                        "endOffsets": "223,100,159"
                     },
                     "to": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
-                        "startOffsets": "55,119,166",
-                        "endColumns": "63,46,58",
-                        "endOffsets": "114,161,220"
+                        "startOffsets": "55,119,169",
+                        "endColumns": "63,49,58",
+                        "endOffsets": "114,164,223"
                     }
                 }
             ]

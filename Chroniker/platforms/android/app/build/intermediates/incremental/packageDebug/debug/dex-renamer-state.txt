@@ -1,4 +1,4 @@
-#Thu Jan 18 09:37:46 EST 2018
-base.0=/Users/DarcyMeyer/Projects/Current/Chroniker/Chroniker/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Sun Jan 21 00:24:10 EST 2018
+base.0=C\:\\cygwin64\\home\\jocel\\Chroniker\\Chroniker\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 renamed.0=classes.dex
-file.0=/Users/DarcyMeyer/Projects/Current/Chroniker/Chroniker/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
+file.0=C\:\\cygwin64\\home\\jocel\\Chroniker\\Chroniker\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
