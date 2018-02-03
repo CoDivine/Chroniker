@@ -1,4 +1,4 @@
-#Thu Jan 18 09:37:46 EST 2018
+#Fri Feb 02 18:02:18 EST 2018
 base.0=/Users/DarcyMeyer/Projects/Current/Chroniker/Chroniker/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
 renamed.0=classes.dex
 file.0=/Users/DarcyMeyer/Projects/Current/Chroniker/Chroniker/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
